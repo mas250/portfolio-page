@@ -18,3 +18,8 @@ float: right;
 .align-text{
 float: left;
 }
+
+body{
+  background-color: powderblue;
+  font-family: sofia;
+}
