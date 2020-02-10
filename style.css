@@ -10,3 +10,11 @@ position: relative;
 margin-left:  500px;
 position: relative;
 }
+
+.align-list{
+float: right;
+}
+
+.align-text{
+float: left;
+}
